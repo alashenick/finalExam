@@ -1,0 +1,14 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.root {
+     -fx-background-image: url("pink.jpeg");
+}
+#welcome-text {
+    -fx-font-size: 36 px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333333;
+	-fx-font-family: 'Comic Sans MS';
+}
+
+.label {
+     -fx-font-family: 'Comic Sans MS';
+}
